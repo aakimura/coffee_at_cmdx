@@ -1,2 +1,6 @@
+# Folders
 node_modules
+.next
+
+# Files
 .DS_Store
