@@ -1,0 +1,293 @@
+{ "type": "FeatureCollection",
+    "features": [
+        { "type": "Feature",
+          "geometry": { "type": "Point", "coordinates": [-99.15571, 19.390735]},
+          "properties": {
+            "name": "7 Café",
+            "address": "C. Yácatas 291, Narvarte Poniente, Benito Juárez, 03020 Ciudad de México, CDMX",
+            "phone": "+525543377503",
+            "website": ""
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.159783, 19.423345]
+          },
+          "properties": {
+            "name": "Adelitas Centro Cultural Café",
+            "address": "Córdoba 23, Roma Nte., Cuauhtémoc, 03020 Ciudad de México, CDMX",
+            "phone": "+525531601648",
+            "website": "https://instagram.com/adelitas.cdmx",
+            "bagged_coffee": false
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.155343, 19.385326]
+          },
+          "properties": {
+            "name": "Almanegra Café Universidad",
+            "address": "Av. Universidad 420-A, Narvarte Poniente, Benito Juárez, 03020 Ciudad de México, CDMX",
+            "phone": "+525541625899",
+            "website": "http://almanegracafe.mx/",
+            "bagged_coffee": true
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.162945, 19.419059]
+          },
+          "properties": {
+            "name": "Almanegra Café Roma Norte",
+            "address": "Tonalá 53, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",
+            "phone": "+525541625899",
+            "website": "http://almanegracafe.mx/",
+            "bagged_coffee": true
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.175131, 19.4024]
+          },
+          "properties": {
+            "name": "Almanegra Café Escandón",
+            "address": "C. de la Prosperidad 37, Escandón II Secc, Miguel Hidalgo, 11800 Ciudad de México, CDMX",
+            "phone": "+525541625899",
+            "website": "http://almanegracafe.mx/",
+            "bagged_coffee": true
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.155299, 19.388983]
+          },
+          "properties": {
+            "name": "Alquimia Café",
+            "address": "Torres Adalid 1515, Narvarte Poniente, Benito Juárez, 03020 Ciudad de México, CDMX",
+            "phone": "+525584944915",
+            "website": "",
+            "bagged_coffee": false
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.172964, 19.401901]
+          },
+          "properties": {
+            "name": "Amargo Café de Autor",
+            "address": "C. Mutualismo 64, Escandón II Secc, Miguel Hidalgo, 11800 Ciudad de México, CDMX",
+            "phone": "+525525591865",
+            "website": "http://www.amargo.mx/",
+            "bagged_coffee": false
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.177972, 19.416595]
+          },
+          "properties": {
+            "name": "Anvil Café de Especialidad",
+            "address": "Zamora 79-Local C, Colonia Condesa, Cuauhtémoc, 06140 Ciudad de México, CDMX",
+            "phone": "",
+            "website": "",
+            "bagged_coffee": false
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.157033, 19.448614]
+          },
+          "properties": {
+            "name": "Bello Café",
+            "address": "Manuel Carpio 158-local 2, Sta María la Ribera, Cuauhtémoc, 06400 Ciudad de México, CDMX",
+            "phone": "+525547576046",
+            "website": "https://www.facebook.com/BelloCoffee",
+            "bagged_coffee": true
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.166954, 19.421741]
+          },
+          "properties": {
+            "name": "Blend Station Roma Norte",
+            "address": "Puebla 237, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",
+            "phone": "+525568685350",
+            "website": "http://blendstation.com.mx/",
+            "bagged_coffee": true
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.173287, 19.412006]
+          },
+          "properties": {
+            "name": "Blend Station Tamaulipas",
+            "address": "Avenida Tamaulipas 60 , Col. Condesa C.P06140, Hipódromo, 06140 Ciudad de México",
+            "phone": "+525568685350",
+            "website": "http://blendstation.com.mx/",
+            "bagged_coffee": true
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.167404, 19.412691]
+          },
+          "properties": {
+            "name": "Blend Station Sonora",
+            "address": "Av Sonora 282, Hipódromo, Cuauhtémoc, 06100 CDMX",
+            "phone": "+525568685350",
+            "website": "http://blendstation.com.mx/",
+            "bagged_coffee": true
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.186068, 19.433307]
+          },
+          "properties": {
+            "name": "Blend Station Polanco",
+            "address": "Av. Horacio 256, Polanco, Polanco V Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX",
+            "phone": "+525568685350",
+            "website": "http://blendstation.com.mx/",
+            "bagged_coffee": true
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.155963, 19.441002]
+          },
+          "properties": {
+            "name": "Cabrita Café",
+            "address": "C. Orozco y Berra 188, Sta María la Ribera, Cuauhtémoc, 06400 Ciudad de México, CDMX",
+            "phone": "",
+            "website": "",
+            "bagged_coffee": false
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.155178, 19.39565]
+          },
+          "properties": {
+            "name": "Café Fuerte",
+            "address": "Xola 1301-Local 6, Narvarte Poniente, Benito Juárez, 03020 Ciudad de México, CDMX",
+            "phone": "",
+            "website": "",
+            "bagged_coffee": true
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.131664, 19.469576]
+          },
+          "properties": {
+            "name": "CaféTeté",
+            "address": "Francisco Tamagno 313 A, Vallejo, Gustavo A. Madero, 07870 Ciudad de México, CDMX",
+            "phone": "+525555375989",
+            "website": "",
+            "bagged_coffee": false
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.179565, 19.335032]
+          },
+          "properties": {
+            "name": "Café y Té Quiero",
+            "address": "Av Arquitectura 55, Copilco Universidad, Coyoacán, 04360 Ciudad de México, CDMX",
+            "phone": "+525555375989",
+            "website": "",
+            "bagged_coffee": true
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.17667, 19.419966]
+          },
+          "properties": {
+            "name": "Camino a Comala Condesa",
+            "address": "Av. Veracruz 7, Colonia Condesa, Cuauhtémoc, 06140 Ciudad de México, CDMX",
+            "phone": "+525590131309",
+            "website": "https://www.caminoacomala.com/",
+            "bagged_coffee": true
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.158326, 19.441198]
+          },
+          "properties": {
+            "name": "Camino a Comala Santa María Ribera",
+            "address": "Calle Amado Nervo 3, Sta María la Ribera, Cuauhtémoc, 06400 Ciudad de México, CDMX",
+            "phone": "+525589688217",
+            "website": "https://www.caminoacomala.com/",
+            "bagged_coffee": true
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.159865, 19.440964]
+          },
+          "properties": {
+            "name": "Camino a Comala San Rafael",
+            "address": "Miguel E. Schultz 7 C,  San Rafael, Cuauhtémoc, 06470 Ciudad de México, CDMX",
+            "phone": "+525592234866",
+            "website": "https://www.caminoacomala.com/",
+            "bagged_coffee": true
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-99.189853, 19.464207]
+          },
+          "properties": {
+            "name": "Camino a Comala Ex-Fábrica de Harina",
+            "address": "Av. Aquiles Serdán 106, Ángel Zimbrón, Miguel Hidalgo, 11410 Ciudad de México, CDMX",
+            "phone": "+525559294139",
+            "website": "https://www.caminoacomala.com/",
+            "bagged_coffee": false
+          }
+        }
+    ]
+  }
